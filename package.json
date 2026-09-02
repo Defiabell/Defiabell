@@ -1,0 +1,15 @@
+{
+  "name": "defiabell-profile",
+  "private": true,
+  "type": "module",
+  "description": "Daily-refreshed GitHub profile README: a generative ink landscape, self-drawn stats cards, a poem of the day.",
+  "scripts": {
+    "paint": "node scripts/ink.mjs",
+    "cards": "python3 scripts/cards.py",
+    "poem": "python3 scripts/poem.py",
+    "refresh": "npm run paint && npm run cards && npm run poem"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "1.0.3"
+  }
+}
