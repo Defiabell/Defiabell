@@ -8,11 +8,11 @@
 <text x="24" y="34" class="t">Streak</text>
 <line x1="178.2" y1="62" x2="178.2" y2="150" stroke="#d1d9e0"/>
 <line x1="316.8" y1="62" x2="316.8" y2="150" stroke="#d1d9e0"/>
-<text x="89.1" y="92" class="n" text-anchor="middle">381</text><text x="89.1" y="116" class="k" text-anchor="middle">Total · past year</text><text x="89.1" y="136" class="c" text-anchor="middle">Aug 31 – Sep 2</text><text x="405.9" y="92" class="n" text-anchor="middle">12</text><text x="405.9" y="116" class="k" text-anchor="middle">Longest streak</text><text x="405.9" y="136" class="c" text-anchor="middle">Jul 20 – Jul 31</text>
+<text x="89.1" y="92" class="n" text-anchor="middle">384</text><text x="89.1" y="116" class="k" text-anchor="middle">Total · past year</text><text x="89.1" y="136" class="c" text-anchor="middle">Aug 31 – Sep 3</text><text x="405.9" y="92" class="n" text-anchor="middle">12</text><text x="405.9" y="116" class="k" text-anchor="middle">Longest streak</text><text x="405.9" y="136" class="c" text-anchor="middle">Jul 20 – Jul 31</text>
 <circle cx="247.5" cy="86" r="34" fill="none" stroke="#eaeef2" stroke-width="4"/>
 <circle cx="247.5" cy="86" r="34" fill="none" stroke="#c1432b" stroke-width="4" stroke-linecap="round"
-  stroke-dasharray="71.2 213.6" transform="rotate(-90 247.5 86)"/>
-<text x="247.5" y="97" class="big" text-anchor="middle">4</text>
+  stroke-dasharray="89.0 213.6" transform="rotate(-90 247.5 86)"/>
+<text x="247.5" y="97" class="big" text-anchor="middle">5</text>
 <text x="247.5" y="140" class="k" text-anchor="middle">Current streak</text>
-<text x="247.5" y="160" class="c" text-anchor="middle">Aug 30 – Sep 2</text>
+<text x="247.5" y="160" class="c" text-anchor="middle">Aug 30 – Sep 3</text>
 </svg>
