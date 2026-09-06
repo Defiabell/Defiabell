@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-05 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「燕子又将春色去。纱窗一阵黄昏雨。」 司马槱<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-06 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「寒食后，酒醒却咨嗟。」 苏轼<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
