@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-08 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「败垣芳草，空廊落叶，深砌苍苔。」 徐再思<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-09 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「广陵城里昔繁华，炀帝行宫接紫霞。」 曾棨<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
