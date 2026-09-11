@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-10 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「归燕识故巢，旧人看新历。」 王维<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-11 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「香汗薄衫凉，凉衫薄汗香。」 苏轼<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
