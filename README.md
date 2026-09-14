@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-13 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「八月长江万里晴，千帆一道带风轻。」 崔季卿<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-14 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「凤箫声断月明中，举手谢、时人欲去。」 苏轼<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
