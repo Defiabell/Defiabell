@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-19 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「梅须逊雪三分白，雪却输梅一段香。」 卢梅坡<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-20 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「枕上诗书闲处好，门前风景雨来佳。」 李清照<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
