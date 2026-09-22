@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-21 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「独自凄凉还自遣，自制离愁。」 龚自珍<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-22 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「新竹高于旧竹枝，全凭老干为扶持。」 郑燮<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
