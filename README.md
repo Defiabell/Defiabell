@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-25 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「西山白雪三城戍，南浦清江万里桥。」 杜甫<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-09-26 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「造化钟神秀，阴阳割昏晓。」 杜甫<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
