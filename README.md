@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-01 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「雪里已知春信至。寒梅点缀琼枝腻。」 李清照<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-02 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「任翠幄张天，柔茵藉地，酒尽未能去。」 晁补之<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
