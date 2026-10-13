@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-12 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「泪湿阑干花著露。愁到眉峰碧聚。」 毛滂<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-13 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「痴儿不知父子礼，叫怒索饭啼门东。」 杜甫<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
