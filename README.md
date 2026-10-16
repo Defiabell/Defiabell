@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-15 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「酒困路长惟欲睡，日高人渴漫思茶。」 苏轼<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-16 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「断虹霁雨，净秋空，山染修眉新绿。」 黄庭坚<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
