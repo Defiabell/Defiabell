@@ -15,7 +15,7 @@ Software engineer. I work on billing and growth infrastructure — the plumbing 
   <tr><td><b>Languages</b></td><td>Go · Python · TypeScript · Rust</td></tr>
   <tr><td><b>Ground</b></td><td>Kubernetes · Postgres · Stripe · Cloudflare</td></tr>
   <tr><td><b>Thinking about</b></td><td>agentic engineering, the economics of AI products</td></tr>
-  <tr><td><b>Explore</b></td><td><a href="https://tingfeng-world.pages.dev/">听风的小世界</a> — wander a little archipelago of writing, projects and games</td></tr>
+  <tr><td><b>Home</b></td><td><a href="https://defiabell.com/">defiabell.com</a> — 听风的小世界, a little archipelago of writing, projects and games; everything I make lives on a subdomain of it</td></tr>
 </table>
 
 <p align="center">
