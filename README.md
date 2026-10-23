@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-22 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「琴书倦，鹧鸪唤起南窗睡。」 谢逸<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-23 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「韶华不为少年留。恨悠悠。几时休。」 秦观<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
