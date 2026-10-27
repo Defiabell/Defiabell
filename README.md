@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-26 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「十五彩衣年，承欢慈母前。」 孟浩然<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-27 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「尽道隋亡为此河，至今千里赖通波。」 皮日休<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
