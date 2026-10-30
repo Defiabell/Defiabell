@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-29 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「花褪残红青杏小。燕子飞时，绿水人家绕。」 苏轼<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-30 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「佳节清明桃李笑，野田荒冢只生愁。」 黄庭坚<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
