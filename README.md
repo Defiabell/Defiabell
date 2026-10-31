@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-30 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「佳节清明桃李笑，野田荒冢只生愁。」 黄庭坚<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-10-31 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「逢流星兮问路，顾我指兮从左。」 王逸<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
