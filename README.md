@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-11-08 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「天山雪后海风寒，横笛偏吹行路难。」 李益<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-11-09 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「美人自刎乌江岸，战火曾烧赤壁山，将军空老玉门关。」 张可久<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
