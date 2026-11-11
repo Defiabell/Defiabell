@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-11-10 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「大江东去，浪淘尽，千古风流人物。」 苏轼<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-11-11 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「泰山不要欺毫末，颜子无心羡老彭。」 白居易<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
