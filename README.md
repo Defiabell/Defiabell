@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-11-14 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「想雁空、北落冬深，澹墨晚天云阔。」 吴文英<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-11-15 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「哀哀父母，生我劳瘁。」 佚名<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
