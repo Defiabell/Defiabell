@@ -5,7 +5,7 @@
     <img src="assets/ink-today.png" width="100%" alt="今日山色 — today's ink landscape">
   </picture>
 </p>
-<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-11-27 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「笑别庐山远，何烦过虎溪。」 李白<!-- CAPTION:END --></sub></p>
+<p align="center"><sub><!-- CAPTION:START -->今日山色 · 2026-11-28 · a new ink landscape every morning, seeded by the date &nbsp;·&nbsp; 「偏皎洁，知他多少，阴晴圆缺。」 徐有贞<!-- CAPTION:END --></sub></p>
 
 ### Hi, I'm jk.
 
